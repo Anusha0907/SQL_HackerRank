@@ -1,2 +1,2 @@
 # SQL_HackerRank
-Exclusive solutions for SQL
+Exclusive solutions for SQL Hackerrank...!
